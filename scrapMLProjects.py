@@ -1,4 +1,5 @@
 # Scrap top ML projects from github
+# future-work : to open the browser in incognito mode
 
 import pandas as pd
 from selenium import webdriver
